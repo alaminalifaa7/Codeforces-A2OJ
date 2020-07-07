@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\bin\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.exe
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\bin\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.deps.json
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\bin\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.runtimeconfig.json
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\bin\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\bin\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\bin\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\obj\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\obj\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\obj\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\obj\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\obj\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\obj\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\110-A-Nearly Lucky Number\obj\Debug\netcoreapp3.1\110-A-Nearly Lucky Number.genruntimeconfig.cache

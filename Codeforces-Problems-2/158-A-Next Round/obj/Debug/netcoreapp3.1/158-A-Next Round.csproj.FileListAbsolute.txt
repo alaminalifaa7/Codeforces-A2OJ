@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\bin\Debug\netcoreapp3.1\158-A-Next Round.exe
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\bin\Debug\netcoreapp3.1\158-A-Next Round.deps.json
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\bin\Debug\netcoreapp3.1\158-A-Next Round.runtimeconfig.json
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\bin\Debug\netcoreapp3.1\158-A-Next Round.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\bin\Debug\netcoreapp3.1\158-A-Next Round.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\bin\Debug\netcoreapp3.1\158-A-Next Round.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\obj\Debug\netcoreapp3.1\158-A-Next Round.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\obj\Debug\netcoreapp3.1\158-A-Next Round.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\obj\Debug\netcoreapp3.1\158-A-Next Round.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\obj\Debug\netcoreapp3.1\158-A-Next Round.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\obj\Debug\netcoreapp3.1\158-A-Next Round.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\obj\Debug\netcoreapp3.1\158-A-Next Round.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\158-A-Next Round\obj\Debug\netcoreapp3.1\158-A-Next Round.genruntimeconfig.cache

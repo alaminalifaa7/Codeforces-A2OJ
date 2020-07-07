@@ -1,0 +1,12 @@
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\bin\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.exe
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\bin\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.deps.json
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\bin\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.runtimeconfig.json
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\bin\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\bin\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\bin\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\obj\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\obj\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\obj\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\obj\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\obj\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\620-A-Prof Gukiz Robot\obj\Debug\netcoreapp3.1\620-A-Prof Gukiz Robot.genruntimeconfig.cache

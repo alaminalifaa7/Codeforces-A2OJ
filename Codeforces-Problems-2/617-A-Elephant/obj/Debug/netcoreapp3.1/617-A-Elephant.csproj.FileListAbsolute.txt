@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\bin\Debug\netcoreapp3.1\617-A-Elephant.exe
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\bin\Debug\netcoreapp3.1\617-A-Elephant.deps.json
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\bin\Debug\netcoreapp3.1\617-A-Elephant.runtimeconfig.json
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\bin\Debug\netcoreapp3.1\617-A-Elephant.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\bin\Debug\netcoreapp3.1\617-A-Elephant.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\bin\Debug\netcoreapp3.1\617-A-Elephant.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\obj\Debug\netcoreapp3.1\617-A-Elephant.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\obj\Debug\netcoreapp3.1\617-A-Elephant.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\obj\Debug\netcoreapp3.1\617-A-Elephant.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\obj\Debug\netcoreapp3.1\617-A-Elephant.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\obj\Debug\netcoreapp3.1\617-A-Elephant.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\obj\Debug\netcoreapp3.1\617-A-Elephant.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\617-A-Elephant\obj\Debug\netcoreapp3.1\617-A-Elephant.genruntimeconfig.cache

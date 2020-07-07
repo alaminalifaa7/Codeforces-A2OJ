@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "620-A-Prof Gukiz Robot/1.0.0": {
+        "runtime": {
+          "620-A-Prof Gukiz Robot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "620-A-Prof Gukiz Robot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

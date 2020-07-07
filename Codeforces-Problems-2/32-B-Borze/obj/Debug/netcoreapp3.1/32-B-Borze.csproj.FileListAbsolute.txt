@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\bin\Debug\netcoreapp3.1\32-B-Borze.exe
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\bin\Debug\netcoreapp3.1\32-B-Borze.deps.json
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\bin\Debug\netcoreapp3.1\32-B-Borze.runtimeconfig.json
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\bin\Debug\netcoreapp3.1\32-B-Borze.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\bin\Debug\netcoreapp3.1\32-B-Borze.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\bin\Debug\netcoreapp3.1\32-B-Borze.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\obj\Debug\netcoreapp3.1\32-B-Borze.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\obj\Debug\netcoreapp3.1\32-B-Borze.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\obj\Debug\netcoreapp3.1\32-B-Borze.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\obj\Debug\netcoreapp3.1\32-B-Borze.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\obj\Debug\netcoreapp3.1\32-B-Borze.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\obj\Debug\netcoreapp3.1\32-B-Borze.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\32-B-Borze\obj\Debug\netcoreapp3.1\32-B-Borze.genruntimeconfig.cache

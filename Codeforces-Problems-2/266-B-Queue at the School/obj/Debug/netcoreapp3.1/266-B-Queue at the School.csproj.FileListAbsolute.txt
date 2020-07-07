@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\bin\Debug\netcoreapp3.1\266-B-Queue at the School.exe
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\bin\Debug\netcoreapp3.1\266-B-Queue at the School.deps.json
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\bin\Debug\netcoreapp3.1\266-B-Queue at the School.runtimeconfig.json
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\bin\Debug\netcoreapp3.1\266-B-Queue at the School.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\bin\Debug\netcoreapp3.1\266-B-Queue at the School.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\bin\Debug\netcoreapp3.1\266-B-Queue at the School.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\obj\Debug\netcoreapp3.1\266-B-Queue at the School.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\obj\Debug\netcoreapp3.1\266-B-Queue at the School.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\obj\Debug\netcoreapp3.1\266-B-Queue at the School.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\obj\Debug\netcoreapp3.1\266-B-Queue at the School.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\obj\Debug\netcoreapp3.1\266-B-Queue at the School.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\obj\Debug\netcoreapp3.1\266-B-Queue at the School.genruntimeconfig.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\266-B-Queue at the School\obj\Debug\netcoreapp3.1\266-B-Queue at the School.csprojAssemblyReference.cache

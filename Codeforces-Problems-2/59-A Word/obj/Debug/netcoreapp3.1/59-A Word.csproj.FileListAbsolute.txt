@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\bin\Debug\netcoreapp3.1\59-A Word.exe
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\bin\Debug\netcoreapp3.1\59-A Word.deps.json
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\bin\Debug\netcoreapp3.1\59-A Word.runtimeconfig.json
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\bin\Debug\netcoreapp3.1\59-A Word.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\bin\Debug\netcoreapp3.1\59-A Word.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\bin\Debug\netcoreapp3.1\59-A Word.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\obj\Debug\netcoreapp3.1\59-A Word.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\obj\Debug\netcoreapp3.1\59-A Word.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\obj\Debug\netcoreapp3.1\59-A Word.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\obj\Debug\netcoreapp3.1\59-A Word.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\obj\Debug\netcoreapp3.1\59-A Word.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\obj\Debug\netcoreapp3.1\59-A Word.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\59-A Word\obj\Debug\netcoreapp3.1\59-A Word.genruntimeconfig.cache

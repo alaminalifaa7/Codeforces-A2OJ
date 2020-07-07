@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\bin\Debug\netcoreapp3.1\275-A-LightsOut.exe
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\bin\Debug\netcoreapp3.1\275-A-LightsOut.deps.json
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\bin\Debug\netcoreapp3.1\275-A-LightsOut.runtimeconfig.json
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\bin\Debug\netcoreapp3.1\275-A-LightsOut.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\bin\Debug\netcoreapp3.1\275-A-LightsOut.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\bin\Debug\netcoreapp3.1\275-A-LightsOut.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\obj\Debug\netcoreapp3.1\275-A-LightsOut.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\obj\Debug\netcoreapp3.1\275-A-LightsOut.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\obj\Debug\netcoreapp3.1\275-A-LightsOut.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\obj\Debug\netcoreapp3.1\275-A-LightsOut.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\obj\Debug\netcoreapp3.1\275-A-LightsOut.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\obj\Debug\netcoreapp3.1\275-A-LightsOut.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\275-A-LightsOut\obj\Debug\netcoreapp3.1\275-A-LightsOut.genruntimeconfig.cache

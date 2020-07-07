@@ -1,0 +1,13 @@
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\bin\Debug\netcoreapp3.1\A-Theatre Square.exe
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\bin\Debug\netcoreapp3.1\A-Theatre Square.deps.json
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\bin\Debug\netcoreapp3.1\A-Theatre Square.runtimeconfig.json
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\bin\Debug\netcoreapp3.1\A-Theatre Square.runtimeconfig.dev.json
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\bin\Debug\netcoreapp3.1\A-Theatre Square.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\bin\Debug\netcoreapp3.1\A-Theatre Square.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\obj\Debug\netcoreapp3.1\A-Theatre Square.csprojAssemblyReference.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\obj\Debug\netcoreapp3.1\A-Theatre Square.csproj.CoreCompileInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\obj\Debug\netcoreapp3.1\A-Theatre Square.AssemblyInfoInputs.cache
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\obj\Debug\netcoreapp3.1\A-Theatre Square.AssemblyInfo.cs
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\obj\Debug\netcoreapp3.1\A-Theatre Square.dll
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\obj\Debug\netcoreapp3.1\A-Theatre Square.pdb
+C:\Users\MEEM\source\repos\617-A-Elephant\A-Theatre Square\obj\Debug\netcoreapp3.1\A-Theatre Square.genruntimeconfig.cache
